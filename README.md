@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikas Soni
 - 👀 I’m interested in Coding/Development...
-- 🌱 I’m currently learning Computer Science Engineering...
-- 💞️ I’m currently studying in Indian Institute of Information Technology Nagpur
+- 🌱 I’m a Computer Science Student.
+- 💞️ I have done BTECH from Indian Institute of Information Technology Nagpur
 - 📫 Contact : +919887891329 , Email : sonivikas142@gmail.com
 
 <!---
